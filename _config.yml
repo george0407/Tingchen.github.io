@@ -21,9 +21,9 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Liu Zichen'
-description:	       ''
-author:              'Liu Zichen'
+title:		           '王庭琛的个人主页'
+description:	       'This is George Tingchen Wang's homepage'
+author:              'George Wang Tingchen'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
