@@ -21,7 +21,7 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           '王庭琛的个人主页'
+title:		           'Wang Tingchen's Homepage'
 description:	       'This is George Tingchen Wang's homepage'
 author:              'George Wang Tingchen'
 
