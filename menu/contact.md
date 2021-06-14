@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-- <a href="../assets/pdf/zcCV.pdf" target="_blank"> CV </a> 
+- <a href="../assets/pdf/wtc_cv.pdf" target="_blank"> CV </a> 
 
 - [github](https://github.com/george0407){:target="_blank"}
 
