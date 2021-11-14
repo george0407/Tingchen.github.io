@@ -3,7 +3,7 @@ layout: page
 title: Archive
 ---
 
-Class Projects and Material
+**Class Projects and Material**
 
 ---
 
@@ -33,7 +33,7 @@ Embedded Hardware System Design Demonstration </a>
     This is a help sheet for the module [EE4212](https://nusmods.com/modules/EE4212/computer-vision){:target="_blank"} (Spring, 2019), taught by <a href="https://www.ece.nus.edu.sg/stfpage/eleclf/" target="_blank"> Dr. Cheong </a> and [Dr. Jiashi](https://sites.google.com/site/jshfeng/){:target="_blank"} in NUS. It includes both mid-level vision, such as stereo analysis and structure from motion, and techniques for processing images like segmentation, HDR and panorama, etc. This module is not much related to deep learning approaches, instead, it outlines some traditional vision challenges and methods. This help sheet was prepared for the final exam as a brief summary ;D
 
 
-Transcripts
+**Transcripts**
 
 ---
 
