@@ -2,6 +2,22 @@
 layout: page
 title: Archive
 ---
+**Part of the Work and Material**
+
+---
+
+- Multi-Sensor Fusion Results
+
+![shape_correction](../assets/work_projects/SF/forward_car.gif)
+
+    This is an actual L4 corner scenario where a size-jumping issue of a large vehicle directly in front is encountered. By utilizing a post multi-sensor fusion algorithm, the size and shape of the detected bounding box can be stabilized. Thus we can meet the requirements of the downstream PnC module.
+
+
+- Robust Heading Correction Algorithm with PCD
+![heading_correction](../assets/work_projects/SF/heading_correction.png)
+
+    In this algorithm, point cloud is innovatively used as the basis for angle correction of the adjacent special-shaped cart. Combining the detected bounding box and its internal point cloud, the detection deviation of the cart's heading angle can be controlled within 0.5°. Such method not only reduces the possible intrusion of predicted lines into the ego's driving trajectory, but also ensures that there will be no more braking situations when driving close to a cart.
+
 
 **Class Projects and Material**
 
