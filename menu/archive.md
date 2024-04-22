@@ -7,7 +7,7 @@ title: Archive
 ---
 
 - <a href="https://www.leiphone.com/category/transportation/cb1blVAcxAzxHqq8.html" target="_blank">
-End-to-End Perception with VLA Model</a>
+End-to-End Perception with VLA Model (Been Interviewed with "新智驾")</a>
 ![conversation](../assets/work_projects/VLA/conversations.png)
 
     This project utilizes the VLA model for scene recognition and critical object detection. Combining Internet-level pre-training data and actual collected annotations, we can train a model with scene understanding capabilities to solve corner cases that are difficult to handle with traditional perception algorithms. For specific technical details, please refer to the [official account](https://mp.weixin.qq.com/s/kW6D1uLp3P45EMo3-IgaVg){:target="_blank"}
