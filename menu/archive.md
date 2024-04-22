@@ -6,12 +6,11 @@ title: Archive
 
 ---
 
-- Multi-Sensor Fusion Results
+- <a href="https://www.leiphone.com/category/transportation/cb1blVAcxAzxHqq8.html" target="_blank">
+End-to-End Perception with VLA Model</a>
+![conversation](../assets/work_projects/VLA/conversations.png)
 
-![shape_correction](../assets/work_projects/SF/forward_car.gif)
-
-    This is an actual L4 corner scenario where a size-jumping issue of a large vehicle directly in front is encountered. By utilizing a post multi-sensor fusion algorithm, the size and shape of the detected bounding box can be stabilized. Thus we can meet the requirements of the downstream PnC module.
-
+    This project utilizes the VLA model for scene recognition and critical object detection. Combining Internet-level pre-training data and actual collected annotations, we can train a model with scene understanding capabilities to solve corner cases that are difficult to handle with traditional perception algorithms. For specific technical details, please refer to the [official account](https://mp.weixin.qq.com/s/kW6D1uLp3P45EMo3-IgaVg){:target="_blank"}
 
 - Robust Heading Correction Algorithm with PCD
 ![heading_correction](../assets/work_projects/SF/heading_correction.png)
